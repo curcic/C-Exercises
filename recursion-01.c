@@ -1,5 +1,5 @@
 /***************************************************
- * Recrusion
+ * Recursion
  * The function should call itself
  * n! = n * [(n - 1) * ... * 2 * 1]
  * n! = n * (n - 1)
