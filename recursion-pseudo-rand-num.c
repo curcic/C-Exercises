@@ -1,7 +1,7 @@
 /***************************************************
  * The user inputs a number n > 0
  * Generate a pseudo-random array in an interval [0, 1)
- * Use recrusion to calculate the array sum
+ * Use recursion to calculate the array sum
 ***************************************************/
 
 #include <stdio.h>
