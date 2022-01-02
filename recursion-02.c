@@ -1,7 +1,7 @@
 /***************************************************
  * The user inputs a whole number n > 0
  * Calculate the sum of the first n natural numbers
- * Use recrusion
+ * Use recursion
 ***************************************************/
 
 #include <stdio.h>
